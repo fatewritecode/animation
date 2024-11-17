@@ -2,6 +2,8 @@
 
 Animation
 
+![Screnshot](https://github.com/fatewritecode/animation/blob/main/assets/images/zumbeispiel.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
